@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "hello node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sywong10/hellonode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sywong10/hellonode/issues"
+  },
+  "homepage": "https://github.com/sywong10/hellonode#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
