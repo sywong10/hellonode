@@ -18,5 +18,10 @@
   "homepage": "https://github.com/sywong10/hellonode#readme",
   "dependencies": {
     "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "should": "^9.0.2",
+    "supertest": "^1.2.0"
   }
 }
